@@ -1,2 +1,2 @@
 # Speech_Recognition
-Recognize speech input from the microphone. Recognize speech input from the audio file.
+The project uses basic speech recognition methods. Part 1: Speech recognition from an audio file. Part 2: Speech recognition through a microphone.
